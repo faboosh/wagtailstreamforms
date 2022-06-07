@@ -1,4 +1,4 @@
-Wagtail StreamForms
+2.9Wagtail StreamForms
 ===================
 
 |CircleCI| |Codecov|
